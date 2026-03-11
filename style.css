@@ -27,7 +27,7 @@ body {
 
 
 .results {
-    width: 65%;
+    width: 50%;
     height: 100%;
     border-radius: 25px;
     display: flex;
@@ -67,6 +67,7 @@ body {
 }
 
 .form-section{
+    width: 45%;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
